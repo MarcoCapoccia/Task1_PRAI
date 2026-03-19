@@ -1,3 +1,0 @@
-strategy,accuracy,f1_macro,roc_auc_ovr
-holdout_no_cv,1.0,1.0,1.0
-cv_5fold,1.0,1.0,1.0
